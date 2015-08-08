@@ -4,13 +4,10 @@ This repository is for the evolution of the logo for the KeyboardPlaying website
 
 ## What it looks like
 
-### Complete version
+SVG files cannot be displayed in Github readme's due to cross site scripting vulnerability. Click the links to see the files:
 
-![logo](https://raw.githubusercontent.com/KeyboardPlaying/kp-logo/master/logo-normal.svg)
-
-### Compact version
-
-![compact logo](https://raw.githubusercontent.com/KeyboardPlaying/kp-logo/master/logo-small.svg)
+* [Full logo](https://github.com/KeyboardPlaying/kp-logo/blob/master/logo-normal.svg)
+* [Compact logo](https://github.com/KeyboardPlaying/kp-logo/blob/master/logo-small.svg)
 
 ## License
 
@@ -31,9 +28,7 @@ The background and elements must be a combination of three colors. Those were de
 
 ## `logo-normal-elements.svg`
 
-The file exist in the `rsc`.
-
-![logo elements](https://raw.githubusercontent.com/KeyboardPlaying/kp-logo/master/rsc/logo-normal-elements.svg)
+The file exist in the `rsc`. You can see it [here](https://github.com/KeyboardPlaying/kp-logo/blob/master/rsc/logo-normal-elements.svg)
 
 The extrusions are materialized as yellow objects to make edition easier. This means some manual work is required to get the final logo.
 
