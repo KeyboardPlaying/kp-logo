@@ -1,5 +1,9 @@
 # KeyboardPlaying logo
 
+
+> **This project was moved [to GitLab](https://gitlab.com/keyboardplaying/kp-logo).**
+
+
 This repository is for the evolution of the logo for the KeyboardPlaying website.
 
 ## What it looks like
